@@ -4,7 +4,6 @@ tagline: Machine learning blog
 url: asimazbunzel.github.io/blog-ml
 paginate: 1
 baseurl: ""
-permalink: pretty
 
 # Gems
 plugins:
